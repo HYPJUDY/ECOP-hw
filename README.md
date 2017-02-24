@@ -8,8 +8,9 @@ Welcome to my ECOP experiment reports! Four well-designed experiments helped me 
 
 Warning: homework solutions for reference but not **plagiarism**.
 
-Language:  MIPS assembly language, Verilog HDL
-Software: PCSpim Simulator, Xilinx ISE 14.4
+**Language**:  MIPS assembly language, Verilog HDL
+
+**Software**: PCSpim Simulator, Xilinx ISE 14.4
 
 Though I had spent long time debugging, error is inevitable. If you find bugs, false logic, just anything that could be better, please do me a favor by creating issues. I would love to see constructively negative feedbacks.
 
