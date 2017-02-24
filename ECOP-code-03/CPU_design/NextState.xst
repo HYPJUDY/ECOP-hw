@@ -1,0 +1,5 @@
+set -tmpdir "E:/ECOP/CPU_design/xst/projnav.tmp"
+set -xsthdpdir "E:/ECOP/CPU_design/xst"
+elaborate
+-ifn NextState.prj
+-ifmt mixed

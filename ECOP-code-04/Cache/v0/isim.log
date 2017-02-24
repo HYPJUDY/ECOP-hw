@@ -1,0 +1,28 @@
+ISim log file
+Running: E:\ECOP\Cache\v0\test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/ECOP/Cache/v0/test_isim_beh.wdb 
+ISim P.49d (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.49d (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 20 ns : File "E:/ECOP/Cache/v0/test.v" Line 82
+# run all
+Stopped at time : 70 ns : File "E:/ECOP/Cache/v0/test.v" Line 87
+# run all
+Stopped at time : 120 ns : File "E:/ECOP/Cache/v0/test.v" Line 92
+# run all
+Stopped at time : 170 ns : File "E:/ECOP/Cache/v0/test.v" Line 97
+# run all
+Stopped at time : 220 ns : File "E:/ECOP/Cache/v0/test.v" Line 101
+# run all
+Stopped at time : 270 ns : File "E:/ECOP/Cache/v0/test.v" Line 105
+# run all
+Stopped at time : 320 ns : File "E:/ECOP/Cache/v0/test.v" Line 110

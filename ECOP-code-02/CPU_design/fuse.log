@@ -1,0 +1,37 @@
+Running: F:\Xilinx\14.4\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o E:/ECOP/CPU_design/Test_isim_beh.exe -prj E:/ECOP/CPU_design/Test_beh.prj work.Test work.glbl 
+ISim P.49d (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/ECOP/CPU_design/Regfile.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/PC.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/ParseIDataOut.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/MUX2T1_5.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/MUX2T1_32.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/InsMemory.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/Extend.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/DataMemory.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/ControlUnit.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/ALU.v" into library work
+Analyzing Verilog file "E:/ECOP/CPU_design/Test.v" into library work
+Analyzing Verilog file "F:/Xilinx/14.4/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module ControlUnit
+Compiling module ALU
+Compiling module DataMemory
+Compiling module Extend
+Compiling module InsMemory
+Compiling module PC
+Compiling module Regfile
+Compiling module ParseIDataOut
+Compiling module MUX2T1_32
+Compiling module MUX2T1_5
+Compiling module Test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 12 Verilog Units
+Built simulation executable E:/ECOP/CPU_design/Test_isim_beh.exe
+Fuse Memory Usage: 28468 KB
+Fuse CPU Usage: 640 ms
